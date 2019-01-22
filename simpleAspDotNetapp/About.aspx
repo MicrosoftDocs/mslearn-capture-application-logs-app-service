@@ -4,4 +4,6 @@
     <h2><%: Title %>.</h2>
     <h3>Contoso Fashions</h3>
     <p>Use this area to provide additional information.</p>
+    <br />
+    <img src="Images/jacket.png" alt="Jacket" title="Jacket" />
 </asp:Content>
