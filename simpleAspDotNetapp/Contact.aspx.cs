@@ -16,13 +16,8 @@ namespace simpleAspDotNetapp
         System.Diagnostics.Trace.TraceError("Error message, in the Page_Load method for Contact.aspx");
         System.Diagnostics.Trace.TraceWarning("Warning  message, in the Page_Load method for Contact.aspx");
         System.Diagnostics.Trace.TraceInformation("Information message, in the Page_Load method for Contact.aspx");
-        throw new InvalidOperationException("An InvalidOperationException " +
-        "occurred in the Page_Load handler on the Default.aspx page.");
-        }
-        public string ForceError()
-        {
-            throw new Exception("just a test exception");
-            return "ok";
+
+        throw new Exception();
         }
     }
 }
