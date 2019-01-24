@@ -4,38 +4,30 @@
 
     <div class="jumbotron">
         <h1>Contoso Fashions</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <p class="lead">Contoso Fashions is a world-leading online retailer of quality clothing.</p>
     </div>
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Getting started</h2>
+            <h2>Clothing for men</h2>
             <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
+                Contoso Fashions has a great range of men's clothes.
             </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
+            <img src="Images/jacket.png" alt="Jacket" title="Jacket" width="200"/>
         </div>
         <div class="col-md-4">
-            <h2>Get more libraries</h2>
+            <h2>Clothing for women</h2>
             <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+                Contoso Fashions has a great range of women's clothes.
             </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-            </p>
+            <img src="Images/dress.png" alt="Dress" title="Dress" width="200"/>
         </div>
         <div class="col-md-4">
-            <h2>Web Hosting</h2>
+            <h2>Footwear</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                Contoso Fashions has a great range of men's and women's shoes.
             </p>
-            <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
+           <img src="Images/shoes.png" alt="Shoes" title="Shoes" width="200"/>
         </div>
     </div>
 

@@ -16,8 +16,6 @@ namespace simpleAspDotNetapp
         System.Diagnostics.Trace.TraceError("Error message, in the Page_Load method for Contact.aspx");
         System.Diagnostics.Trace.TraceWarning("Warning  message, in the Page_Load method for Contact.aspx");
         System.Diagnostics.Trace.TraceInformation("Information message, in the Page_Load method for Contact.aspx");
-
-        throw new Exception();
         }
     }
 }
