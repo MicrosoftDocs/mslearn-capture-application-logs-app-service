@@ -14,7 +14,7 @@ namespace simpleAspDotNetapp
         {
         System.Diagnostics.Trace.WriteLine("Verbose message, in the Page_Load method for About.aspx");
         System.Diagnostics.Trace.TraceError("Error message, in the Page_Load method for About.aspx");
-        System.Diagnostics.Trace.TraceWarning("Warning  message, in the Page_Load method for About.aspx");
+        System.Diagnostics.Trace.TraceWarning("Warning message, in the Page_Load method for About.aspx");
         System.Diagnostics.Trace.TraceInformation("Information message, in the Page_Load method for About.aspx");
         }
     }
